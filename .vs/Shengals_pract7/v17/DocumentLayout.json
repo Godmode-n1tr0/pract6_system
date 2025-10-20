@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-07\\Desktop\\ShengalsPr33\\Shengals_pract7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD10A89F-C8F6-46A1-BA78-8F19295516CE}|Shengals_pract7.vcxproj|C:\\Users\\st310-07\\Desktop\\ShengalsPr33\\Shengals_pract7\\Shengals_pract7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD10A89F-C8F6-46A1-BA78-8F19295516CE}|Shengals_pract7.vcxproj|solutionrelative:Shengals_pract7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 163,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shengals_pract7.cpp",
+              "DocumentMoniker": "C:\\Users\\st310-07\\Desktop\\ShengalsPr33\\Shengals_pract7\\Shengals_pract7.cpp",
+              "RelativeDocumentMoniker": "Shengals_pract7.cpp",
+              "ToolTip": "C:\\Users\\st310-07\\Desktop\\ShengalsPr33\\Shengals_pract7\\Shengals_pract7.cpp",
+              "RelativeToolTip": "Shengals_pract7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T08:58:10.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
